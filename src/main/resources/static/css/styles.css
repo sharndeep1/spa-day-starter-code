@@ -1,6 +1,20 @@
 body {
     background-color: pink;
 }
+footer{
+background-color:white
+margin:auto;
+width: 50%;
+text-align:center;
+}
+#redPolish{
+width : 25px;
+height : 25px;
+margin: auto;
+;
+
+
+}
 
 div {
     margin: auto;
